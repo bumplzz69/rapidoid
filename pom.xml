@@ -75,7 +75,7 @@
 		<hsqldb.version>2.4.1</hsqldb.version>
 
 		<spring.version>5.0.6.RELEASE</spring.version>
-		<guice.version>4.2.0</guice.version>
+		<guice.version>4.2.1</guice.version>
 		<oltu.version>1.0.2</oltu.version>
 		<mustache.java.version>0.9.5</mustache.java.version>
 		<jmustache.version>1.14</jmustache.version>
