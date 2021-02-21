@@ -64,7 +64,7 @@
 
 		<hikari.version>3.2.0</hikari.version>
 		<c3p0.version>0.9.5.2</c3p0.version>
-		<hibernate.version>5.3.1.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 
 		<validation-api.version>2.0.1.Final</validation-api.version>
 		<validator.version>6.0.10.Final</validator.version>
@@ -75,7 +75,7 @@
 		<hsqldb.version>2.4.1</hsqldb.version>
 
 		<spring.version>5.0.6.RELEASE</spring.version>
-		<guice.version>4.2.0</guice.version>
+		<guice.version>4.2.1</guice.version>
 		<oltu.version>1.0.2</oltu.version>
 		<mustache.java.version>0.9.5</mustache.java.version>
 		<jmustache.version>1.14</jmustache.version>
