@@ -60,7 +60,7 @@
 
 		<commons-logging.version>1.2</commons-logging.version>
 		<httpclient.version>4.1.3</httpclient.version>
-		<httpmime.version>4.5.5</httpmime.version>
+		<httpmime.version>4.5.13</httpmime.version>
 
 		<hikari.version>3.2.0</hikari.version>
 		<c3p0.version>0.9.5.2</c3p0.version>
